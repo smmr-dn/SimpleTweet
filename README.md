@@ -18,7 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] User is using **"Twitter branded" colors and styles**
-- [X] User can click links in tweets launch the web browser 
+- [X] User can click links in tweets launch the web browser
+- [X] User can see embedded images
 - [ ] User can **select "reply" from detail view to respond to a tweet**
 - [ ] The "Compose" action is moved to a FloatingActionButton instead of on the AppBar
 - [ ] Compose tweet functionality is build using modal overlay
